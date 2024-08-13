@@ -16,3 +16,4 @@
   - 윤대희, 김동화, 송종민, 진현두
   - 위키북스
   - 2023년 10월 18일
+  - 예제 코드 https://github.com/wikibook/pytorchtrf/tree/main
